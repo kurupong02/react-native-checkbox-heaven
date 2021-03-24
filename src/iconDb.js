@@ -108,6 +108,12 @@ const iconDb = [
     },
     {
         component: MaerialComIcon,
+        iconName: 'minusBox',
+        checkedIconName: 'minus-box',
+        uncheckedIconName: 'checkbox-blank-outline'
+    },
+    {
+        component: MaerialComIcon,
         iconName: 'matFill',
         checkedIconName: 'checkbox-marked',
         uncheckedIconName: 'checkbox-blank'
